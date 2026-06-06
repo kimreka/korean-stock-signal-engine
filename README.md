@@ -48,3 +48,6 @@ python scalping_engine.py
 
 ## License
 MIT License
+## Disclaimer
+This project is for educational and personal use only.
+The author is not responsible for any financial losses resulting from the use of this software.
